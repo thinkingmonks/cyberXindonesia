@@ -330,7 +330,7 @@ a{
     gap: 1vw;
   }
     .sup-cont {
-    width: 24vw;
+    width: 18vw;
     display: flex;
     flex-wrap: wrap;
     gap: 1vw;
@@ -338,7 +338,7 @@ a{
   .sup-h {
     text-align: left;
     width: 100%;
-    font-size: .9vw;
+    font-size: .75vw;
     font-family: 'mona-sans black';
 }
 .sup-h span{
@@ -346,8 +346,8 @@ a{
   background-color: #ffb600;
 }
 .sup-logo {
-    width: 11vw;
-    height: 11vw;
+    width: 7vw;
+    height: 7vw;
     border: 1px solid #ffffff96;
     display: flex;
     align-items: center;
