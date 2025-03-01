@@ -339,7 +339,7 @@ a{
     text-align: left;
     width: 100%;
     font-size: .75vw;
-    font-family: 'mona-sans black';
+    font-family: 'Mona-Sans Bold';
 }
 .sup-h span{
   padding: .2vw .5vw;
@@ -1819,7 +1819,7 @@ a{
       padding: 1vw 0;
       color: black;
       background-color: #ffb600;
-      font-family: 'mona-sans black';
+      font-family: 'Mona-Sans Bold';
     }
     .spon2 .spon-box{
       width: 100%;
